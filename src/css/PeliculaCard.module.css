@@ -1,0 +1,14 @@
+.peliculaCard{
+    list-style: none;
+    font-size: 1.5rem;
+
+}
+
+.peliculaCard:hover{
+    opacity: 0.8;
+}
+
+.movieImage{
+    
+    background-color: azure;
+}

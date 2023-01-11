@@ -1,0 +1,20 @@
+.volVer{
+    text-align: center;
+}
+
+.linkk{
+    text-decoration: none;
+    color: rgb(56, 9, 9);
+}
+
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.button:hover {
+    background-color: #7b7b7b; /* Green */
+    color: white;
+}

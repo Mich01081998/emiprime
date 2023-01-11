@@ -1,0 +1,54 @@
+.contenedorDetalles{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col {
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.movieImage {
+    border-radius: 15px;
+}
+
+.movieDetails {
+    font-size: 1.5rem;
+}
+
+.primerParrafo {
+    margin-top: 0;
+}
+
+.playerWrapper {
+    position: relative;
+}
+
+
+
+/* LINK RESERVAR */
+
+.reserVar{
+    text-align: center;
+}
+
+.linkk{
+    text-decoration: none;
+    color: rgb(0, 107, 20);
+}
+
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-align: center;
+    color: rgb(17, 107, 9);
+    font-size: 1rem;
+}
+
+.button:hover {
+    background-color: #03c339; /* Green */
+    color: white;
+}

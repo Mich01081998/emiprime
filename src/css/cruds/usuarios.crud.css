@@ -1,0 +1,12 @@
+.button_editar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+  }
+
+.no_admin_message{
+    color: black;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+html{
+    height: 100%;
+}
+
+body{
+    display: 100%;
+    flex-direction: column;
+    min-height: 100%;
+    background-color: #E1E2E1;
+}

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+.pelicula-container {
+  justify-content: center;
+  margin: 50px 0;
+
+}
+
+
+.buttonpelicula{
+    height: 415px;
+    width: 210px;
+    margin: 30px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: rgb(162, 162, 162);
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(43, 43, 43);
+}
+
+.row {
+    display: flex;
+}
+
+.buttonpelicula:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.movieImage {
+    border-radius: 10px;
+    margin: 10px;
+    background-color: azure;
+  }

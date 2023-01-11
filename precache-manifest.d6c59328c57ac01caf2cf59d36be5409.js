@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7619402d23f62483ec08",
+    "revision": "d5059efffcb42f956748",
     "url": "/emiprime/static/css/main.7a1145d1.chunk.css"
   },
   {
-    "revision": "7619402d23f62483ec08",
-    "url": "/emiprime/static/js/main.7619402d.chunk.js"
+    "revision": "d5059efffcb42f956748",
+    "url": "/emiprime/static/js/main.d5059eff.chunk.js"
   },
   {
     "revision": "7df15b17d8c53d70c797",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/emiprime/static/media/mision.e6b6e442.png"
   },
   {
-    "revision": "e5e8f06a3770bd85ae39e085c3c4b5fd",
+    "revision": "d237b270cefee96cfa9849d1d15b97f9",
     "url": "/emiprime/index.html"
   }
 ];

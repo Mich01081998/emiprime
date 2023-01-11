@@ -41,7 +41,7 @@ export function App() {
           <Route exact path='/' >{/* <Estrenos></Estrenos> */}<Peliculas></Peliculas></Route>
           <Route exact path='/pelicula/:peliculaID'><DetallePeliculas/><Volver></Volver></Route>
           <Route exact path='/ReservarButacas'><ReservarButacas></ReservarButacas></Route>
-          <Route exact path='emiprime/contactanos'><Contactanos/></Route>
+          <Route exact path='/emiprime/contactanos'><Contactanos/></Route>
           <Route exact path='/Nosotros'> <Nosotros/></Route>
           <Route path='/login' exact render = {props=>(<LoginPage {...props}/>)}></Route>
           <Route path='/logout' exact render={props=>(<Logout {...props}/> )}/>

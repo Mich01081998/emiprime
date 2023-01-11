@@ -23,7 +23,7 @@ export function NavBar() {
                         <Nav.Link href={"/Reserva"}>Reservar Butacas</Nav.Link>
                     }
                     <Nav.Link href={"/Nosotros"}>Nosotros</Nav.Link>
-                    <Nav.Link href={"/contactanos"}>Contactanos</Nav.Link>
+                    <Nav.Link href={"/emiprime/contactanos"}>Contactanos</Nav.Link>
                 </Nav>
                 <Nav>
                     {localStorage.getItem("infoLogin") ?
